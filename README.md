@@ -8,10 +8,7 @@
 
 | Nome | RM |
 |------|-----|
-| **Isadora Meneghetti** | RM556326 |
-| **Gustavo Ikeda** | RM554718 |
-| **Henrique Azevedo** | RM556707 |
-| **Victoria Moura** | RM555474 |
+| **Vitor Couto Victorino** | RM554965 |
 
 ---
 
@@ -46,14 +43,6 @@ Este é um aplicativo mobile de **Sistema de Consultas Médicas** desenvolvido e
 - Service layer para organização do código
 - Arquitetura profissional com separação de responsabilidades
 - Estilos completamente separados da lógica
-
----
-
-## LINK DO REPOSITÓRIO
-
-**Repositório principal:** [https://github.com/isadorameneghetti/cp02-mobile](https://github.com/isadorameneghetti/cp02-mobile)
-
-**Branch do projeto:** `main`
 
 ---
 
@@ -227,7 +216,7 @@ cp02/
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/isadorameneghetti/cp02-mobile.git
+git clone https://github.com/vitorcccc/cp02-mobile.git
 ```
 
 2. **Acesse a pasta do projeto**
@@ -386,30 +375,3 @@ Bem-vindo ao sistema!
 - Validações de dados
 - Feedback visual
 - Git Flow com branches e PRs
-
----
-
-## DISTRIBUIÇÃO DAS TAREFAS (CP2)
-
-| Integrante | Telas | Branch |
-|------------|-------|--------|
-| **Isadora Meneghetti** (RM556326) | ConsultasListScreen + ConsultaDetalhesScreen | `feat/styles-consultas` |
-| **Gustavo Ikeda** (RM554718) | NovaConsultaScreen + Login | `feat/styles-forms` |
-| **Henrique Azevedo** (RM556707) | HomeScreen | `feat/styles-home` |
-| **Victoria Moura** (RM555474) | CadastroPaciente + MinhasConsultas | `feat/styles-paciente` |
-
----
-
-## DISCIPLINA
-
-**Mobile Development e IoT**
-
-Professor: Hete Caetano dos Santos
-
-FACULDADE FIAP - 2026
-
----
-
-## LICENÇA
-
-Este projeto foi desenvolvido para fins educacionais. Todos os direitos reservados aos autores.
